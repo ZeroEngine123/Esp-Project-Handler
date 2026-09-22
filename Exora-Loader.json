@@ -1,0 +1,17 @@
+{
+  "library": {
+    "version": "6.0.0",
+    "link": "https://github.com/ZeroEngine123/Esp-Project-Handler/raw/refs/heads/main/libBelieveEsp-PayLoad.so"
+  },
+
+  "apk": {
+    "version": "1.0.0",
+    "link": "https://github.com/ZeroEngine123/Reseller-WallHack/raw/refs/heads/main/ZeroX6T_1.0.0.apk",
+    "message": "Major update released! Please update for optimal performance."
+  },
+
+  "login_message": {
+    "enabled": false,
+    "message": "Welcome to BelieveEsp. Server is fully online!"
+  }
+}
