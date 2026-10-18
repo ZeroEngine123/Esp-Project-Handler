@@ -5,7 +5,7 @@
     "message": "Major update released! Please update for optimal performance."
   },
   "login_message": {
-    "enabled": true,
+    "enabled": false,
     "message": "New update relase soon Today evening!"
   }
 }
