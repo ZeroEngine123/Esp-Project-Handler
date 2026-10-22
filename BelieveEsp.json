@@ -2,7 +2,7 @@
   "apk": {
     "version": "9.0.7",
     "link": "https://github.com/ZeroEngine123/Esp-Project-Handler/raw/refs/heads/main/BelieveEsp.apk",
-    "message": "New update available! Please update to version 9.0.6."
+    "message": "New update available! Please update to version 9.0.7."
   },
   "login_message": {
     "enabled": false,
