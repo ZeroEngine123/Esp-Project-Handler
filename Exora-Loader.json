@@ -1,8 +1,8 @@
 {
   "apk": {
-    "version": "9.0.8",
+    "version": "10.0.1",
     "link": "https://github.com/ZeroEngine123/Esp-Project-Handler/raw/refs/heads/main/ExoraLoader-Update.apk",
-    "message": "New update available! Please update to version 9.0.7."
+    "message": "New update available! Please update to version 10.0.1."
   },
   "login_message": {
     "enabled": false,
